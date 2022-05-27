@@ -1,6 +1,6 @@
  Data Mining, Big Data and Analytics
 Project
-# “Instacart Market Basket Order Prediction”
+# Instacart Market Basket Order Prediction
 
 This is a group project made by a group of four students taking the Big Data and Analytics Course at Cairo University.
 
